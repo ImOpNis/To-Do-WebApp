@@ -22,8 +22,6 @@ while (true) {
         if(idx <= todo.length){
             todo.splice(idx, 1);
             console.log("Task Deleted!!");
-        }else if(idx = "69"){
-            console.log("naughty ho rha ho ke....");
         }else{
             console.log("Invalid Index!!");
         }
